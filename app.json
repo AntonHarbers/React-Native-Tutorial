@@ -13,9 +13,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
+      "package": "com.jsm.aora",
       "supportsTablet": true
     },
     "android": {
+      "package": "com.jsm.aora",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
